@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Alyssa%20Sorensen&fontColor=FFFFFF&fontAlign=75&fontAlignY=35)
 
+![](https://komarev.com/ghpvc/?username=alyssasorensen&label=visitors&color=d07e85)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cf8566)](https://www.linkedin.com/in/alyssa-sorensen/)
 
 # Welcome to my GitHub profile! I'm Alyssa, a student passionate about healthcare, technology, and research. 
 
@@ -9,8 +12,8 @@
 - 🌱 I’m currently learning: Python, R, SQL, Azure, GCP, Tableau, HTML-CSS
 - 👩‍💻 I'm interested in: data analysis/data science, data visualization, and database management
 - 📫 You can find me on: [LinkedIn](https://www.linkedin.com/in/alyssa-sorensen/)
-
-## ✔ Skills
+---
+## ✔ Skills:
 ![](https://img.shields.io/badge/Code-Python-82a8c5)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=82a8c5)
 ![](https://img.shields.io/badge/Code-HTML-82a8c5)
@@ -24,7 +27,6 @@
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-R%20Studio-d07e85)
 
-
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 ![Alyssa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssasorensen&layout=compact&show_icons=true&theme=tokyonight&langs_count=9&hide_progress=true)
 ![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssasorensen&show_icons=true&theme=tokyonight&rank_icon=github)
