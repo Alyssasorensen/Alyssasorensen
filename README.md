@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-d07e85)
-![](https://img.shields.io/badge/Cloud%20Shell-Google%20Cloud-d07e85)
+![](https://img.shields.io/badge/IDE-Google%20Cloud%20Shell-d07e85)
 ![](https://img.shields.io/badge/IDE-R%20Studio-d07e85)
 
 <br>
