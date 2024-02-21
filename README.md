@@ -24,3 +24,8 @@ Quick Overview:
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-R%20Studio-d07e85)
+
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?alyssasorensen=alyssasorensen&show_icons=true&theme=radical)](https://github.com/alyssasorensen)
