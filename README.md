@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/Code-HTML-82a8c5)
 ![](https://img.shields.io/badge/Code-CSS-82a8c5)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=82a8c5)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=82a8c5)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Qualtrics-informational?style=flat&logo=Qualtrics&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=fad985)
