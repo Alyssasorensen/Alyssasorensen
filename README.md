@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Alyssa%20Sorensen&fontColor=FFFFFF&fontAlign=30&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Alyssa%20Sorensen&fontColor=FFFFFF&fontAlign=35&fontAlignY=35)
 
 ![](https://komarev.com/ghpvc/?username=alyssasorensen&label=visitors&color=d07e85)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cf8566)](https://www.linkedin.com/in/alyssa-sorensen/)
