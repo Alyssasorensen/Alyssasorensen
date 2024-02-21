@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Framework-Flask-lightpurple?logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Framework-FastAPI-lightpurple?logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-d07e85)
 ![](https://img.shields.io/badge/IDE-Google%20Cloud%20Shell-d07e85)
