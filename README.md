@@ -1,10 +1,9 @@
 
 
+# Welcome to my GitHub profile! I'm Alyssa, a student passionate about healthcare, technology, and research. 
 
-### Welcome to my GitHub profile! I'm Alyssa, a student passionate about healthcare, technology, and research. 
 
-
-Quick Overview: 
+## ☀ Quick Overview: 
 
 - 🎓 I'm a M.S. Applied Health Informatics student at Stony Brook University
 - 🌱 I’m currently learning: Python, R, SQL, Azure, GCP, Tableau, HTML-CSS
