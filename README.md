@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Tool-Qualtrics-informational?style=flat&logo=Qualtrics&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=fad985)
+![](https://img.shields.io/badge/Web-Framework-BD93F9?logo=FastAPI&logoColor=white)
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-d07e85)
 ![](https://img.shields.io/badge/IDE-Google%20Cloud%20Shell-d07e85)
