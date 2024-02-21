@@ -27,5 +27,5 @@ Quick Overview:
 
 
 ## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?alyssasorensen=alyssasorensen&show_icons=true&theme=radical)](https://github.com/alyssasorensen)
+![Alyssa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssasorensen&layout=compact&show_icons=true&theme=tokyonight&langs_count=9&hide_progress=true)
+![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssasorensen&show_icons=true&theme=tokyonight&rank_icon=github)
