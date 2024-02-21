@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Qualtrics-informational?style=flat&logo=Qualtrics&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=fad985)
-![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=fad985)
+![](https://img.shields.io/badge/Tool-Tableau-4CAF50?logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Flask-BA68C8?logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Framework-FastAPI-BA68C8?logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
