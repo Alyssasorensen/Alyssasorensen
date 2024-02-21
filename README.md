@@ -32,9 +32,9 @@
 
 ## 📌 What I'm Currently Working On: 
 <div style="display: flex;">
-<a href="https://github.com/alyssasorensen/flask_e2e_project" target="_blank">
-  <img align="center" style="margin:0.5rem" src="https://github.com/Alyssasorensen/Diabetes_dataset_cleaning.git"/>
-</a>
+  <a href="https://github.com/Alyssasorensen/Diabetes_dataset_cleaning.git" target="_blank">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alyssasorensen&repo=Diabetes_dataset_cleaning"/>
+  </a>
 </div>
 
 <br>
