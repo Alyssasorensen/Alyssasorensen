@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=fad985)
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
-![](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-d07e85)
 ![](https://img.shields.io/badge/IDE-R%20Studio-d07e85)
 
 <br>
