@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Alyssa%20Sorensen&fontColor=FFFFFF&fontAlign=65&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=Alyssa%20Sorensen&fontColor=FFFFFF&fontAlign=65&fontAlignY=35)
 
 # Welcome to my GitHub profile! I'm Alyssa, a student passionate about healthcare, technology, and research. 
 ![](https://komarev.com/ghpvc/?username=alyssasorensen&label=visitors&color=d07e85)
