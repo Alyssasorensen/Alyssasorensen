@@ -1,13 +1,14 @@
+<div align='center'>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Alyssa%20Sorensen&fontColor=FFFFFF&fontAlign=65&fontAlignY=35)
 
+# Welcome to my GitHub profile! I'm Alyssa, a student passionate about healthcare, technology, and research. 
 ![](https://komarev.com/ghpvc/?username=alyssasorensen&label=visitors&color=d07e85)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cf8566)](https://www.linkedin.com/in/alyssa-sorensen/)
 
-# Welcome to my GitHub profile! I'm Alyssa, a student passionate about healthcare, technology, and research. 
-
+</div>
 
 ## ☀ Quick Overview: 
-
 - 🎓 I'm a M.S. Applied Health Informatics student at Stony Brook University
 - 🌱 I’m currently learning: Python, R, SQL, Azure, GCP, Tableau, HTML-CSS
 - 👩‍💻 I'm interested in: data analysis/data science, data visualization, and database management
@@ -27,6 +28,24 @@
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-R%20Studio-d07e85)
 
+<br>
+
+## 📌 What I'm Currently Working On: 
+<div style="display: flex;">
+<a href="https://github.com/alyssasorensen/flask_e2e_project" target="_blank">
+  <img align="center" style="margin:0.5rem" src="https://github.com/Alyssasorensen/Diabetes_dataset_cleaning.git"/>
+</a>
+</div>
+
+<br>
+
 ## 📈 GitHub Stats:
 ![Alyssa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssasorensen&layout=compact&show_icons=true&theme=tokyonight&langs_count=9&hide_progress=true)
 ![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssasorensen&show_icons=true&theme=tokyonight&rank_icon=github)
+
+---
+<div align='center'>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer)
+
+</div>
