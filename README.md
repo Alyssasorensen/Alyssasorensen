@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/IDE-MySQLWorkbench-d07e85)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-d07e85)
 ![](https://img.shields.io/badge/IDE-Google%20Cloud%20Shell-d07e85)
+![](https://img.shields.io/badge/IDE-Google%20Colab-d07e85)
 ![](https://img.shields.io/badge/IDE-R%20Studio-d07e85)
 
 <br>
